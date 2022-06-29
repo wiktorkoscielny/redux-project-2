@@ -1,0 +1,1 @@
+In this react redux todo app tutorial I'm building a todo app using redux toolkit,  learning about the different parts that make up redux, how to structure state, and how to call data from an API.
